@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+slack-sdk
+groq
+python-dotenv
+markdown
+jinja2
+gTTS
